@@ -1,0 +1,42 @@
+<map_data name="Tajikistan" xmlfile1="map.xml" map="map.swf" xmlfile2="map_data.xml">
+<state zooming="on">
+ <id>01</id>
+ <name>Sughd</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>02</id>
+ <name>Region of Republican Subordination</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>03</id>
+ <name>Khatlon</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>04</id>
+ <name>Gorno-Badakhshan</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>

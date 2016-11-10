@@ -1,0 +1,172 @@
+<map_data name="Kazakhstan" xmlfile1="map.xml" map="map.swf" xmlfile2="map_data.xml">
+<state zooming="on">
+ <id>1</id>
+ <name>Akmola</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>2</id>
+ <name>Aktobe</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>3</id>
+ <name>Almaty</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>4</id>
+ <name>Almaty Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>5</id>
+ <name>Astana</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>6</id>
+ <name>Atyrau</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>7</id>
+ <name>Baikonur</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>8</id>
+ <name>East Kazakhstan</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>9</id>
+ <name>Karagandy</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>10</id>
+ <name>Kostanay</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>11</id>
+ <name>Kyzylorda</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>12</id>
+ <name>Mangystau</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>13</id>
+ <name>North Kazakhstan</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>14</id>
+ <name>Pavlodar</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>15</id>
+ <name>South Kazakhstan</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>16</id>
+ <name>West Kazakhstan</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>17</id>
+ <name>Zhambyl</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>

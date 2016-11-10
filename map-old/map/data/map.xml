@@ -1,0 +1,112 @@
+<map_data>
+<state>
+ <id>1</id>
+ <name>Armenia</name>
+ <URL map="am.swf" xmlfile1="am.xml" xmlfile2="am_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>2</id>
+ <name>Azerbaijan</name>
+ <URL map="az.swf" xmlfile1="az.xml" xmlfile2="az_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>3</id>
+ <name>Belarus</name>
+ <URL map="by.swf" xmlfile1="by.xml" xmlfile2="by_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>4</id>
+ <name>Kazakhstan</name>
+ <URL map="kz.swf" xmlfile1="kz.xml" xmlfile2="kz_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>5</id>
+ <name>Kyrgyzstan</name>
+ <URL map="kg.swf" xmlfile1="kg.xml" xmlfile2="kg_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>6</id>
+ <name>Moldova</name>
+ <URL map="md.swf" xmlfile1="md.xml" xmlfile2="md_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>7</id>
+ <name>Russia</name>
+ <URL map="ru.swf" xmlfile1="ru.xml" xmlfile2="ru_data.xml">javascript:set_text('div1');</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>8</id>
+ <name>Tajikistan</name>
+ <URL map="tj.swf" xmlfile1="tj.xml" xmlfile2="tj_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>9</id>
+ <name>Turkmenistan</name>
+ <URL map="tm.swf" xmlfile1="tm.xml" xmlfile2="tm_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>10</id>
+ <name>Ukraine</name>
+ <URL map="ua.swf" xmlfile1="ua.xml" xmlfile2="ua_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state>
+ <id>11</id>
+ <name>Uzbekistan</name>
+ <URL map="uz.swf" xmlfile1="uz.xml" xmlfile2="uz_data.xml">#</URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>

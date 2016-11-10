@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<title>Maps</title>
+
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css">
+
+    <link type="text/css" rel="stylesheet" href="css/jquery.custom-scrollbar.css"/>
+
+    <link rel="stylesheet" type="text/css" href="css/interactive-maps.css">
+
+    <script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery.custom-scrollbar.min.js"></script>
+
+    <script type="text/javascript" src="js/interactive-maps.js"></script>
+
+    <script type="text/javascript" src="js/editor.js"></script>
+
+    <script type="text/javascript" src="js/jscolor.min.js"></script>
+
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:500" rel="stylesheet">
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+	<script>
+
+		$(function()
+		{
+
+			$('#cisMaps').interactiveMaps(); 
+
+			
+
+		});
+
+	</script>
+
+</head>
+
+<body>
+
+	
+
+    <h3 class="info-map">Click on the region to start your University Search</h3>
+
+	<div id="cisMaps">
+
+		<!-- Wysiwyg Editor -->
+		<div class="new-container"></div>
+		<div id="editor">
+
+			<form action=""> 
+
+				<input type="hidden" id="uid"><br>
+
+				<label class="label-title" for="name">NAME</label>
+
+				<input type="text" id="name"><br>
+
+				<label class="label-title" for="url">URL</label>
+
+				<input type="text" id="url"><br>
+
+				<label class="label-title" for="target">TARGET FRAME</label>
+
+				<input type="text" id="target">
+
+				<label class="label-fontSize" for="font-size">FONT SIZE</label><br>
+
+				<input type="radio" name="font-size" id="font-size" value="12" checked>
+
+				<label for="font-size">12</label>
+
+				<input type="radio" name="font-size" id="font-size" value="10">
+
+				<label for="font-size">10</label>
+
+				<input type="radio" name="font-size" id="font-size" value="9">
+
+				<label for="font-size">9</label>
+
+				<input type="radio" name="font-size" id="font-size" value="0">
+
+				<label for="font-size">Invisible</label><br>
+
+				<label class="label-icon">ICON</label>
+
+				<!-- <img src="img/pins/blackDot.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon" id="icon" value="blackDot" checked> -->
+
+				<img src="img/pins/redDot.svg" alt="">
+
+				<input type="radio" name="icon" id="icon" value="redDot" checked>
+
+				<img src="img/pins/greenDot.svg" alt="">
+
+				<input type="radio" name="icon" id="icon" value="greenDot">
+
+				<img class="star-choice" src="img/pins/blackStar.svg" alt="">
+
+				<input type="radio" name="icon" id="icon" value="blackStar">
+
+				<!-- <img src="img/pins/redStar.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon" id="icon" value="redStar"> -->
+
+				<!-- <img src="img/pins/greenStar.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon" id="icon" value="greenStar"><br> -->
+
+				<!-- <img src="img/pins/blackPin.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon" id="icon" value="blackPin"> -->
+
+				<img src="img/pins/redPin.svg" alt="">
+
+				<input type="radio" name="icon" id="icon" value="redPin"><br>
+
+				<!-- <img src="img/pins/greenPin.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon" id="icon" value="greenPin"><br> -->
+
+				<label for="textarea">POPUP WINDOW</label>
+
+				<textarea id="description-area" name="textarea"></textarea><br>
+
+				<label for="image">IMAGE TITLE</label>
+
+				<input id="imageName" name="image"><br><br>
+
+				<button type="button" class="setPicker">Set</button>
+
+			</form>
+
+		</div>
+
+		<div id="editor2">
+
+			<form action="">
+
+				<input type="hidden" id="uid2"><br>
+
+				<label class="label-title" for="name2">NAME</label>
+
+				<input type="text" id="name2"><br>
+
+				<label class="label-title" for="url2">URL</label>
+
+				<input type="text" id="url2"><br>
+
+				<label class="label-title" for="target2">TARGET FRAME</label>
+
+				<input type="text" id="target2">
+
+				<label class="label-fontSize" for="font-size2">FONT SIZE</label><br>
+
+				<input type="radio" name="font-size" id="font-size2" value="12" checked>
+
+				<label for="font-size2">12</label>
+
+				<input type="radio" name="font-size" id="font-size2" value="10">
+
+				<label for="font-size2">10</label>
+
+				<input type="radio" name="font-size" id="font-size2" value="9">
+
+				<label for="font-size2">9</label>
+
+				<input type="radio" name="font-size" id="font-size2" value="0">
+
+				<label for="font-size2">Invisible</label><br>
+
+				<label class="label-icon" >ICON</label>
+
+				<!-- <img src="img/pins/blackDot.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon2" id="icon" value="blackDot" checked> -->
+
+				<img src="img/pins/redDot.svg" alt="">
+
+				<input type="radio" name="icon2" id="icon" value="redDot" checked>
+
+				<img src="img/pins/greenDot.svg" alt="">
+
+				<input type="radio" name="icon2" id="icon" value="greenDot">
+
+				<img class="star-choice" src="img/pins/blackStar.svg" alt="">
+
+				<input type="radio" name="icon2" id="icon" value="blackStar">
+
+				<!-- <img src="img/pins/redStar.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon2" id="icon" value="redStar"> -->
+
+				<!-- <img src="img/pins/greenStar.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon2" id="icon" value="greenStar"><br> -->
+
+				<!-- <img src="img/pins/blackPin.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon2" id="icon" value="blackPin"> -->
+
+				<img src="img/pins/redPin.svg" alt="">
+
+				<input type="radio" name="icon2" id="icon" value="redPin"><br>
+
+				<!-- <img src="img/pins/greenPin.svg" alt=""> -->
+
+				<!-- <input type="radio" name="icon2" id="icon" value="greenPin"><br> -->
+
+				<label for="description-area">POPUP WINDOW</label>
+
+				<textarea id="description-area2" name="textarea"></textarea><br>
+
+				<label for="imageName2">IMAGE TITLE</label>
+
+				<input id="imageName2" name="image"><br><br>
+
+				<button type="button" class="setPicker2">Update</button>
+
+				<button type="button" class="delPicker">Delete Pinpoint</button>
+
+			</form>
+
+		</div>
+
+		<img src="img/pins/redDot.svg" class=" new-picker"></img>
+
+	</div>
+
+
+</body>
+
+</html>

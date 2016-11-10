@@ -1,0 +1,383 @@
+<map_data name="Moldova" xmlfile1="map.xml" map="map.swf" xmlfile2="map_data.xml">
+<state zooming="on">
+  <id>1</id>
+  <name>Anenii Noi</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>2</id>
+  <name>Basarabeasca</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>3</id>
+  <name>Briceni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>4</id>
+  <name>Cahul</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>5</id>
+  <name>Cantemir</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>6</id>
+  <name>Calarasi</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>7</id>
+  <name>Causeni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>8</id>
+  <name>Cimislia</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>9</id>
+  <name>Criuleni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>10</id>
+  <name>Donduseni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>11</id>
+  <name>Drochia</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>12</id>
+  <name>Dubasari</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>13</id>
+  <name>Edinet</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>14</id>
+  <name>Falesti </name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>15</id>
+  <name>Floresti</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>16</id>
+  <name>Glodeni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>17</id>
+  <name>Hоncesti</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>18</id>
+  <name>Ialoveni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>19</id>
+  <name>Leova</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>20</id>
+  <name>Nisporeni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>21</id>
+  <name>Ocnita</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>22</id>
+  <name>Orhei</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>23</id>
+  <name>Rezina</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+
+<state zooming="on">
+  <id>24</id>
+  <name>Rоscani</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>25</id>
+  <name>Sоngerei</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>26</id>
+  <name>Soroca</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>27</id>
+  <name>Straseni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>28</id>
+  <name>Soldanesti</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>29</id>
+  <name>Stefan Voda</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>30</id>
+  <name>Taraclia</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>31</id>
+  <name>Telenesti</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>32</id>
+  <name>Ungheni</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>33</id>
+  <name>Chisinau</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>34</id>
+  <name>Gagauzia</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>35</id>
+  <name>Transnistria</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>36</id>
+  <name>Tighina</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>37</id>
+  <name>Tiraspol</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>38</id>
+  <name>Balti</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>

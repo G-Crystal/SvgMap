@@ -1,0 +1,112 @@
+<map_data name="Armenia" xmlfile1="map.xml" map="map.swf" xmlfile2="map_data.xml">
+<state zooming="on">
+  <id>1</id>
+  <name>Aragatsotn</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>2</id>
+  <name>Ararat</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>3</id>
+  <name>Armavir</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>4</id>
+  <name>Gegharkunik</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>5</id>
+  <name>Kotayk</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>6</id>
+  <name>Lori</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>7</id>
+  <name>Shirak</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>8</id>
+  <name>Syunik</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>9</id>
+  <name>Tavush</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>10</id>
+  <name>Vayots Dzor</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+  <id>11</id>
+  <name>Yerevan</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>

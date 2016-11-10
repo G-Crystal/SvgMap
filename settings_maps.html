@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Settings Mps</title>
+	<link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css">
+    <link type="text/css" rel="stylesheet" href="css/jquery.custom-scrollbar.css"/>
+    <link rel="stylesheet" type="text/css" href="css/interactive-maps.css">
+	<link rel="stylesheet" type="text/css" href="css/settings-maps.css">
+	<script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/jquery.custom-scrollbar.min.js"></script>
+	<script type="text/javascript" src="js/interactive-maps.js"></script>
+	<script type="text/javascript" src="js/settings-maps.js"></script>
+	<script>
+		$(function()
+		{
+			$('#cisMaps').settingsMaps();
+		});
+	</script>
+</head>
+<body>
+
+	<div id="cisMaps"></div>
+	<div class="wrap-settings">
+		<div class="darken-background"></div>
+		<div class="form-settings">
+			<span class="close-form">x</span>
+			<label>Name:</label>
+			<input type="text" name="name"/>
+			<label>Color:</label><br/>
+			<input type="color" name="color" value="#FF0000"/><br/>
+			<label>Url:</label>
+			<input type="text" name="url"/>
+			<label>Content:</label>
+			<textarea name="content" rows="3"></textarea>
+			<label>Image:</label>
+			<input type="text" name="image"/>
+			<button type="button" class="add-point">Add new point</button>
+			<button type="button" class="edit-point">Edit point</button>
+			<button type="button" class="delete-point">Delete point</button>
+		</div>
+	</div>
+
+    <div class="manual">
+        <h2>Manual</h2>
+        <p>- Double-click for detail map</p>
+        <p>- Single click adds a new point to the region</p>
+        <p>- Clicking on a point opens a dialog box to edit or delete a point</p>
+        </br>
+        <p>- The icon 'Download' button leads to download a JSON file with data points</p>
+        <p>- To save the new points replace the downloaded JSON file in the directory: '.../maps/data'</p>
+        </br>
+        <p>- To change the path to the map files, make changes in the file '.../js/interactive-maps.js' string: pathMaps: 'maps/'</p>
+    </div>
+
+</body>
+</html>

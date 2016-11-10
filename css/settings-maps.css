@@ -1,0 +1,133 @@
+.manual
+{
+    width: 75%;
+    margin:auto;
+    font: 14px Arial;
+}
+
+.wrap-settings
+{
+    display: none;
+}
+
+.darken-background
+{
+    background: #000;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    opacity: 0.1;
+}
+
+.form-settings
+{
+    position: absolute;
+    top: 10%;
+    width: 30%;
+    left: 33%;
+    color: #434343;
+    font: 12px Arial;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    z-index: 101;
+}
+
+.form-settings label
+{
+    margin-left: 5px;
+}
+
+.form-settings .close-form
+{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    font: 15px sans-serif;
+}
+
+.form-settings input[type=text], textarea, select
+{
+    width: 100%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-settings input[type=color]
+{
+    width: 20%;
+    height: 37px;
+    padding: 2px 4px;
+    background: #fff;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.add-point, .edit-point, .delete-point
+{
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 11px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-point:hover
+{
+    background-color: #45a049;
+}
+
+.edit-point
+{
+    display: none;
+    background-color: #337ab7;
+}
+
+.edit-point:hover
+{
+    background-color: #2e6da4;
+}
+
+.delete-point
+{
+    display: none;
+    background-color: #c9302c;
+}
+
+.delete-point:hover
+{
+    background-color: #ac2925;
+}
+
+.download
+{
+    display: none;
+    position: absolute;
+    top: 52px;
+    left: 15px;
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+    background: url('../img/download.png') no-repeat;
+}
+
+.download:hover
+{
+    background: url('../img/download_hover.png') no-repeat;
+}

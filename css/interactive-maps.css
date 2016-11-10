@@ -1,0 +1,610 @@
+#cisMaps
+
+{
+
+	width: 75%;
+
+	margin-left: 11%;
+
+	-webkit-border-radius: 7px;
+
+	-moz-border-radius: 7px;
+
+	border-radius: 7px;
+
+}
+
+
+
+.container-maps
+
+{
+
+	position: relative;
+
+	background: #F3F3F3;
+
+}
+
+
+
+.arrow-back
+
+{
+
+	display: none;
+
+	position: absolute;
+
+	top: 15px;
+
+	left: 15px;
+
+	cursor: pointer;
+
+	width: 24px;
+
+	height: 24px;
+
+	background: url('../img/arrow_back.png') no-repeat;
+
+}
+
+
+
+.arrow-back:hover
+
+{
+
+	background: url('../img/arrow_back_hover.png') no-repeat;
+
+}
+
+
+
+.list-reg
+
+{
+
+	position: absolute;
+
+	top: 15px;
+
+	right: 32px;
+
+	cursor: pointer;
+
+	width: 24px;
+
+	height: 24px;
+
+	background: url('../img/menu.png') no-repeat;
+
+}
+
+
+
+.list-reg:hover
+
+{
+
+	background: url('../img/menu_hover.png') no-repeat;
+
+}
+
+
+
+.land, .land-no-hover
+
+{
+
+	fill: #396BA0;
+
+	fill-opacity: 1;
+
+	stroke: white;
+
+	stroke-opacity: 1;
+
+	stroke-width: 0.5;
+
+	stroke-linejoin: bevel;
+
+	cursor: pointer;
+
+	-webkit-transition: 0.5s;
+
+	-moz-transition: 0.5s;
+
+	-o-transition: 0.5s;
+
+	transition: 0.5s;
+
+}
+
+
+
+.land:hover, .land-hover
+
+{
+
+	fill: #0C83C7;
+
+	-webkit-transition: 0.5s;
+
+	-moz-transition: 0.5s;
+
+	-o-transition: 0.5s;
+
+	transition: 0.5s;
+
+}
+
+
+
+.name-reg
+
+{
+
+    display: block;
+
+    position: relative;
+
+    top: 20px;
+
+	text-align: center;
+
+    color: #fff;
+
+    font-weight: 900;
+
+    font: 12px Arial;
+
+    text-shadow: 0 0 3px black, 0px 0px 3px black, 2px 2px 3px black;
+
+}
+
+
+
+.regions
+
+{
+
+	position: absolute !important;
+
+	width: 36px;
+
+	height: calc(95% - 50px);
+
+	top: 50px;
+
+	right: 15px;
+
+	padding-right: 10px;
+
+}
+
+
+
+.regions span
+
+{
+
+	display: inline-block;
+
+	background: #386B98;
+
+	opacity: 0.8;
+
+	color: #fff;
+
+	width: 32px;
+
+	margin-bottom: 5px;
+
+	padding: 2px;
+
+	font: 11px Arial;
+
+	font-weight: 700;
+
+	-webkit-border-radius: 4px;
+
+	-moz-border-radius: 4px;
+
+	border-radius: 4px;
+
+	text-align: center;
+
+	cursor: pointer;
+
+}
+
+
+
+.regions span:hover
+
+{
+
+	background: #0C83C7;
+
+}
+
+
+
+.ui-tooltip
+
+{
+
+	color: #fff;
+
+	font-weight: 900;
+
+	font: 12px Arial;
+
+	text-shadow: 0 0 3px black, 0px 0px 3px black, 2px 2px 3px black;
+
+}
+
+
+
+.tooltip-point
+
+{
+
+	display: none;
+
+	position: absolute;
+
+	background: #fff;
+
+	opacity: 0.9;
+
+	color: #000;
+
+	font: 11px Arial;
+
+	-webkit-border-radius: 5px;
+
+	-moz-border-radius: 5px;
+
+	border-radius: 5px;
+
+}
+
+
+
+.tooltip-point div
+
+{
+
+    display: inline-block;
+
+    float: left;
+
+    margin: 10px;
+
+}
+
+
+
+.tooltip-point .point-image
+
+{
+
+    margin-right: 0;
+
+}
+
+
+
+.tooltip-point img
+
+{
+
+	max-width: 80px;
+
+}
+
+
+
+.maps text
+
+{
+
+	font: 11px Arial;
+
+	text-shadow: 0 0 3px black, 0px 0px 3px black, 2px 2px 3px black;
+
+}
+
+
+
+.link-disabled
+
+{
+
+	pointer-events: none;
+
+	cursor: default;
+
+}
+
+
+
+.maps
+
+{
+
+	-webkit-touch-callout: none; /* iOS Safari */
+
+	-webkit-user-select: none;   /* Chrome/Safari/Opera */
+
+	-khtml-user-select: none;    /* Konqueror */
+
+	-moz-user-select: none;      /* Firefox */
+
+	-ms-user-select: none;       /* Internet Explorer/Edge */
+
+	user-select: none;           /* Non-prefixed version, currently
+
+                                  not supported by any browser */
+
+}
+
+
+
+.info-map
+
+{
+
+	font: 21px Arial;
+
+	text-align: center;
+
+}
+
+
+
+/*************** Wysiwyg Editor ***************/
+
+
+.user-page .editor-button{
+	display: none;
+}
+
+.editor-button {
+
+	font-size: 13px;
+
+    right: 5px;
+
+    bottom: 5px;
+
+    padding: 3px;
+
+    border-radius: 5px;
+
+    font-family: 'Open Sans', sans-serif;
+
+    position: absolute;
+
+    color: #396ba0;
+
+    border: 1.5px solid #396ba0;
+
+    transition: all 100ms linear;
+    
+    cursor: pointer;
+
+}
+
+
+
+.editor-button:hover {
+
+	background-color: #396ba0;
+
+	color: #fff;
+
+}
+
+
+
+#editor, #editor2 {
+
+	font-family: 'Open Sans', sans-serif;
+
+	position: absolute;
+
+	background-color: #bdbdbd;
+
+	padding: 10px;
+
+	max-width: 250px;
+
+	display: none;
+
+	z-index: 99;
+
+}
+
+
+
+#editor label, #editor2 label {
+
+	font-size: 12px;
+
+	margin-bottom: 10px;
+
+	clear: both;
+
+}
+
+
+#editor .label-title, #editor2 .label-title  {
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+
+#editor .label-fontSize, #editor2 .label-fontSize {
+	display: block;
+    margin-bottom: -14px;
+}
+
+
+#editor .label-icon, #editor2 .label-icon {
+	display: block;
+    margin-bottom: 0px;
+}
+
+
+#editor input[type="text"], #editor2 input[type="text"] {
+
+	margin-bottom: 10px;
+
+	float: right;
+
+}
+
+.picker {
+	cursor: pointer;
+}
+
+.picker a{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+    text-shadow: 0px 0px 5px #000;
+}
+
+
+.picker a span{
+    transition: 200ms all linear;
+}
+
+
+.picker:hover a span{
+    color: #F00;
+    text-shadow: 0px 0px 5px #FFF;
+}
+
+
+.picker i{
+	cursor: pointer;
+}
+
+#editor input#target, #editor2 input#target,  {
+
+	max-width: 100px;
+
+}
+
+
+.picker .fa.fa-thumb-tack,.picker .fa.fa-map-marker,.picker .fa.fa-map-pin{
+	font-size: 18px;
+}
+
+.picker .fa{
+	font-size: 12px;
+	position: relative;
+    top: 1px;
+    left: -15px;
+}
+
+.picker {
+
+	position: absolute;
+
+	display: block;
+
+}
+
+
+.new-picker {
+
+	display: none;
+	
+	width: 22px;
+
+	position: absolute;
+
+}
+
+
+.picker_description{
+    display: none;
+    position: absolute;
+    top: -45px;
+    left: -200px;
+    z-index: 1;
+    background: #fff;
+    padding: 4px;
+    border-radius: 7px;
+    border: 2px solid #bbbbbb;
+    width: 165px;
+}
+
+.picker_description img{
+	max-height: 70px;
+    max-width: 70px;
+    display: inline;
+    border-radius: 10px;
+}
+
+.picker_description p{
+	display: inline;
+    float: right;
+    margin: 0;
+    font-size: 12px;
+    width: 85px;
+}
+
+.picker_description p.no-img{
+	display: block;
+	clear: both;
+	float: none;
+}
+
+#editor .jscolor, #editor2 .jscolor{
+    width: 120px;
+    float: right;
+}
+
+#editor textarea, #editor2 textarea{
+	resize: vertical;
+    width: 210px;
+}
+
+#editor img,#editor2 img{
+	width: 20px;
+}
+
+#editor .star-choice,#editor2 .star-choice{
+	width: 15px;
+	border-radius: 50%;
+	background-color: #000;
+}
+
+.picker .redDot, .picker .greenDot, .picker .blackDot{
+	height: 22px;
+	margin-left: -20px;
+    margin-top: 1px;
+}
+
+.picker .redPin, .picker .greenPin, .picker .blackPin{
+	height: 25px;
+    margin-left: -12px;
+    margin-top: -6px;
+}
+
+.picker .redStar, .picker .greenStar, .picker .blackStar{
+	width: 15px;
+    margin-left: -20px;
+    margin-right: 3px;
+    border-radius: 50%;
+    background-color: #fff;
+}

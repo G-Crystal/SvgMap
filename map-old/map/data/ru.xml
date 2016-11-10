@@ -1,0 +1,842 @@
+<map_data name="Russia" xmlfile1="map.xml" map="map.swf" xmlfile2="map_data.xml" back_link="javascript:set_text('div2');">
+<state>
+  <id>1</id>
+  <name>Republic of Adygea</name>
+  <URL map="ru-ad.swf" xmlfile1="ru-ad.xml" xmlfile2="ru-ad_data.xml">#</URL>
+  <comment>&lt;b&gt;Name Surname&lt;/b&gt;
+Business Development 
+Manager
+&lt;textformat tabstops='[5, 50]'&gt;
+&lt;tab&gt;Phone: &lt;tab&gt;(000) 123-4567
+&lt;tab&gt;Direct: &lt;tab&gt;(000) 123-4567
+&lt;tab&gt;Fax: &lt;tab&gt;(000) 123-4567
+
+E-mail: 
+name@domainname.com
+&lt;/textformat&gt; </comment>
+  <color_map>0xCC6666</color_map>
+  <color_map_over>0xCC3333</color_map_over>
+  <frame></frame>
+  <image>photo.jpg</image>
+</state>
+<state>
+  <id>2</id>
+  <name>Republic of Bashkortostan</name>
+  <URL map="ru-ba.swf" xmlfile1="ru-ba.xml" xmlfile2="ru-ba_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>3</id>
+  <name>Buryat Republic</name>
+  <URL map="ru-bu.swf" xmlfile1="ru-bu.xml" xmlfile2="ru-bu_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>4</id>
+  <name>Altai Republic</name>
+  <URL map="ru-al.swf" xmlfile1="ru-al.xml" xmlfile2="ru-al_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>5</id>
+  <name>Republic of Dagestan</name>
+  <URL map="ru-da.swf" xmlfile1="ru-da.xml" xmlfile2="ru-da_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>6</id>
+  <name>Republic of Ingushetia</name>
+  <URL map="ru-in.swf" xmlfile1="ru-in.xml" xmlfile2="ru-in_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>7</id>
+  <name>Kabardino-Balkar Republic</name>
+  <URL map="ru-kb.swf" xmlfile1="ru-kb.xml" xmlfile2="ru-kb_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>8</id>
+  <name>Republic of Kalmykia</name>
+  <URL map="ru-kl.swf" xmlfile1="ru-kl.xml" xmlfile2="ru-kl_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>9</id>
+  <name>Karachay-Cherkess Republic</name>
+  <URL map="ru-kc.swf" xmlfile1="ru-kc.xml" xmlfile2="ru-kc_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>10</id>
+  <name>Republic of Karelia</name>
+  <URL map="ru-kr.swf" xmlfile1="ru-kr.xml" xmlfile2="ru-kr_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>11</id>
+  <name>Komi Republic</name>
+  <URL map="ru-ko.swf" xmlfile1="ru-ko.xml" xmlfile2="ru-ko_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>12</id>
+  <name>Mari El Republic</name>
+  <URL map="ru-me.swf" xmlfile1="ru-me.xml" xmlfile2="ru-me_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>13</id>
+  <name>Republic of Mordovia</name>
+  <URL map="ru-mo.swf" xmlfile1="ru-mo.xml" xmlfile2="ru-mo_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>14</id>
+  <name>Sakha (Yakutia) Republic</name>
+  <URL map="ru-sa.swf" xmlfile1="ru-sa.xml" xmlfile2="ru-sa_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>15</id>
+  <name>Republic of North Ossetia-Alania</name>
+  <URL map="ru-se.swf" xmlfile1="ru-se.xml" xmlfile2="ru-se_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>16</id>
+  <name>Republic of Tatarstan</name>
+  <URL map="ru-ta.swf" xmlfile1="ru-ta.xml" xmlfile2="ru-ta_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>17</id>
+  <name>Tyva Republic</name>
+  <URL map="ru-ty.swf" xmlfile1="ru-ty.xml" xmlfile2="ru-ty_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>18</id>
+  <name>Udmurt Republic</name>
+  <URL map="ru-ud.swf" xmlfile1="ru-ud.xml" xmlfile2="ru-ud_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>19</id>
+  <name>Republic of Khakassia</name>
+  <URL map="ru-kk.swf" xmlfile1="ru-kk.xml" xmlfile2="ru-kk_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>20</id>
+  <name>Chechen Republic</name>
+  <URL map="ru-ce.swf" xmlfile1="ru-ce.xml" xmlfile2="ru-ce_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>21</id>
+  <name>Chuvash Republic-Chuvashia</name>
+  <URL map="ru-cu.swf" xmlfile1="ru-cu.xml" xmlfile2="ru-cu_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>22</id>
+  <name>Altai Krai</name>
+  <URL map="ru-alt.swf" xmlfile1="ru-alt.xml" xmlfile2="ru-alt_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>23</id>
+  <name>Zabaykalsky Krai</name>
+  <URL map="ru-zab.swf" xmlfile1="ru-zab.xml" xmlfile2="ru-zab_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>24</id>
+  <name>Kamchatka Krai</name>
+  <URL map="ru-kam.swf" xmlfile1="ru-kam.xml" xmlfile2="ru-kam_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>25</id>
+  <name>Krasnodar Krai</name>
+  <URL map="ru-kda.swf" xmlfile1="ru-kda.xml" xmlfile2="ru-kda_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>26</id>
+  <name>Krasnoyarsk Krai</name>
+  <URL map="ru-kia.swf" xmlfile1="ru-kia.xml" xmlfile2="ru-kia_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>27</id>
+  <name>Perm Krai </name>
+  <URL map="ru-per.swf" xmlfile1="ru-per.xml" xmlfile2="ru-per_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>28</id>
+  <name>Primorsky Krai</name>
+  <URL map="ru-pri.swf" xmlfile1="ru-pri.xml" xmlfile2="ru-pri_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>29</id>
+  <name>Stavropol Krai</name>
+  <URL map="ru-sta.swf" xmlfile1="ru-sta.xml" xmlfile2="ru-sta_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>30</id>
+  <name>Khabarovsk Krai</name>
+  <URL map="ru-kha.swf" xmlfile1="ru-kha.xml" xmlfile2="ru-kha_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>31</id>
+  <name>Amur Oblast</name>
+  <URL map="ru-amu.swf" xmlfile1="ru-amu.xml" xmlfile2="ru-amu_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>32</id>
+  <name>Arkhangelsk Oblast</name>
+  <URL map="ru-ark.swf" xmlfile1="ru-ark.xml" xmlfile2="ru-ark_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>33</id>
+  <name>Astrakhan Oblast</name>
+  <URL map="ru-ast.swf" xmlfile1="ru-ast.xml" xmlfile2="ru-ast_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>34</id>
+  <name>Belgorod Oblast</name>
+  <URL map="ru-bel.swf" xmlfile1="ru-bel.xml" xmlfile2="ru-bel_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>35</id>
+  <name>Bryansk Oblast</name>
+  <URL map="ru-bry.swf" xmlfile1="ru-bry.xml" xmlfile2="ru-bry_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>36</id>
+  <name>Vladimir Oblast</name>
+  <URL map="ru-vla.swf" xmlfile1="ru-vla.xml" xmlfile2="ru-vla_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>37</id>
+  <name>Volgograd Oblast</name>
+  <URL map="ru-vgg.swf" xmlfile1="ru-vgg.xml" xmlfile2="ru-vgg_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>38</id>
+  <name>Vologda Oblast</name>
+  <URL map="ru-vlg.swf" xmlfile1="ru-vlg.xml" xmlfile2="ru-vlg_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>39</id>
+  <name>Voronezh Oblast</name>
+  <URL map="ru-vor.swf" xmlfile1="ru-vor.xml" xmlfile2="ru-vor_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>40</id>
+  <name>Ivanovo Oblast</name>
+  <URL map="ru-iva.swf" xmlfile1="ru-iva.xml" xmlfile2="ru-iva_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>41</id>
+  <name>Irkutsk Oblast</name>
+  <URL map="ru-irk.swf" xmlfile1="ru-irk.xml" xmlfile2="ru-irk_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>42</id>
+  <name>Kaliningrad Oblast</name>
+  <URL map="ru-kgd.swf" xmlfile1="ru-kgd.xml" xmlfile2="ru-kgd_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>43</id>
+  <name>Kaluga Oblast</name>
+  <URL map="ru-klu.swf" xmlfile1="ru-klu.xml" xmlfile2="ru-klu_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>44</id>
+  <name>Kemerovo Oblast</name>
+  <URL map="ru-kem.swf" xmlfile1="ru-kem.xml" xmlfile2="ru-kem_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>45</id>
+  <name>Kirov Oblast</name>
+  <URL map="ru-kir.swf" xmlfile1="ru-kir.xml" xmlfile2="ru-kir_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>46</id>
+  <name>Kostroma Oblast</name>
+  <URL map="ru-kos.swf" xmlfile1="ru-kos.xml" xmlfile2="ru-kos_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>47</id>
+  <name>Kurgan Oblast</name>
+  <URL map="ru-kgn.swf" xmlfile1="ru-kgn.xml" xmlfile2="ru-kgn_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>48</id>
+  <name>Kursk Oblast</name>
+  <URL map="ru-krs.swf" xmlfile1="ru-krs.xml" xmlfile2="ru-krs_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>49</id>
+  <name>Leningrad Oblast</name>
+  <URL map="ru-len.swf" xmlfile1="ru-len.xml" xmlfile2="ru-len_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>50</id>
+  <name>Lipetsk Oblast</name>
+  <URL map="ru-lip.swf" xmlfile1="ru-lip.xml" xmlfile2="ru-lip_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>51</id>
+  <name>Magadan Oblast</name>
+  <URL map="ru-mag.swf" xmlfile1="ru-mag.xml" xmlfile2="ru-mag_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>52</id>
+  <name>Moscow Oblast</name>
+  <URL map="ru-mos.swf" xmlfile1="ru-mos.xml" xmlfile2="ru-mos_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>53</id>
+  <name>Murmansk Oblast</name>
+  <URL map="ru-mur.swf" xmlfile1="ru-mur.xml" xmlfile2="ru-mur_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>54</id>
+  <name>Nizhny Novgorod</name>
+  <URL map="ru-niz.swf" xmlfile1="ru-niz.xml" xmlfile2="ru-niz_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>55</id>
+  <name>Novgorod Oblast</name>
+  <URL map="ru-ngr.swf" xmlfile1="ru-ngr.xml" xmlfile2="ru-ngr_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>56</id>
+  <name>Novosibirsk Oblast</name>
+  <URL map="ru-nvs.swf" xmlfile1="ru-nvs.xml" xmlfile2="ru-nvs_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>57</id>
+  <name>Omsk Oblast</name>
+  <URL map="ru-oms.swf" xmlfile1="ru-oms.xml" xmlfile2="ru-oms_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>58</id>
+  <name>Orenburg Oblast</name>
+  <URL map="ru-ore.swf" xmlfile1="ru-ore.xml" xmlfile2="ru-ore_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>59</id>
+  <name>Oryol Oblast</name>
+  <URL map="ru-orl.swf" xmlfile1="ru-orl.xml" xmlfile2="ru-orl_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>60</id>
+  <name>Penza Oblast</name>
+  <URL map="ru-pnz.swf" xmlfile1="ru-pnz.xml" xmlfile2="ru-pnz_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>61</id>
+  <name>Pskov Oblast</name>
+  <URL map="ru-psk.swf" xmlfile1="ru-psk.xml" xmlfile2="ru-psk_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>62</id>
+  <name>Rostov Oblast</name>
+  <URL map="ru-ros.swf" xmlfile1="ru-ros.xml" xmlfile2="ru-ros_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>63</id>
+  <name>Ryazan Oblast</name>
+  <URL map="ru-rya.swf" xmlfile1="ru-rya.xml" xmlfile2="ru-rya_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>64</id>
+  <name>Samara Oblast</name>
+  <URL map="ru-sam.swf" xmlfile1="ru-sam.xml" xmlfile2="ru-sam_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>65</id>
+  <name>Saratov Oblast</name>
+  <URL map="ru-sar.swf" xmlfile1="ru-sar.xml" xmlfile2="ru-sar_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>66</id>
+  <name>Sakhalin Oblast</name>
+  <URL map="ru-sak.swf" xmlfile1="ru-sak.xml" xmlfile2="ru-sak_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>67</id>
+  <name>Sverdlovsk Oblast</name>
+  <URL map="ru-sve.swf" xmlfile1="ru-sve.xml" xmlfile2="ru-sve_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>68</id>
+  <name>Smolensk Oblast</name>
+  <URL map="ru-smo.swf" xmlfile1="ru-smo.xml" xmlfile2="ru-smo_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>69</id>
+  <name>Tambov Oblast</name>
+  <URL map="ru-tam.swf" xmlfile1="ru-tam.xml" xmlfile2="ru-tam_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>70</id>
+  <name>Tver Oblast</name>
+  <URL map="ru-tve.swf" xmlfile1="ru-tve.xml" xmlfile2="ru-tve_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>71</id>
+  <name>Tomsk Oblast</name>
+  <URL map="ru-tom.swf" xmlfile1="ru-tom.xml" xmlfile2="ru-tom_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>72</id>
+  <name>Tula Oblast</name>
+  <URL map="ru-tul.swf" xmlfile1="ru-tul.xml" xmlfile2="ru-tul_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>73</id>
+  <name>Tyumen Oblast</name>
+  <URL map="ru-tyu.swf" xmlfile1="ru-tyu.xml" xmlfile2="ru-tyu_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>74</id>
+  <name>Ulyanovsk Oblast</name>
+  <URL map="ru-uly.swf" xmlfile1="ru-uly.xml" xmlfile2="ru-uly_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>75</id>
+  <name>Chelyabinsk Oblast</name>
+  <URL map="ru-che.swf" xmlfile1="ru-che.xml" xmlfile2="ru-che_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>76</id>
+  <name>Yaroslavl Oblast</name>
+  <URL map="ru-yar.swf" xmlfile1="ru-yar.xml" xmlfile2="ru-yar_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>77</id>
+  <name>Москва</name>
+  <URL map="ru-mow.swf" xmlfile1="ru-mow.xml" xmlfile2="ru-mow_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>78</id>
+  <name>Saint Petersburg</name>
+  <URL map="ru-spe.swf" xmlfile1="ru-spe.xml" xmlfile2="ru-spe_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>79</id>
+  <name>Jewish Autonomous Oblast</name>
+  <URL map="ru-yev.swf" xmlfile1="ru-yev.xml" xmlfile2="ru-yev_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>80</id>
+  <name>Nenets Autonomous Okrug</name>
+  <URL map="ru-nen.swf" xmlfile1="ru-nen.xml" xmlfile2="ru-nen_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>81</id>
+  <name>Khanty-Mansi Autonomous Okrug</name>
+  <URL map="ru-khm.swf" xmlfile1="ru-khm.xml" xmlfile2="ru-khm_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>82</id>
+  <name>Chukotka Autonomous Okrug</name>
+  <URL map="ru-chu.swf" xmlfile1="ru-chu.xml" xmlfile2="ru-chu_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+<state>
+  <id>83</id>
+  <name>Yamalo-Nenets Autonomous Okrug</name>
+  <URL map="ru-yan.swf" xmlfile1="ru-yan.xml" xmlfile2="ru-yan_data.xml">#</URL>
+  <comment></comment>
+  <color_map>0x7798BA</color_map>
+  <color_map_over>0x366CA3</color_map_over>
+  <frame></frame>
+  <image></image>
+</state>
+</map_data>

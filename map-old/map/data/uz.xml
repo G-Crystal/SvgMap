@@ -1,0 +1,142 @@
+<map_data name="Uzbekistan" xmlfile1="map.xml" map="map.swf" xmlfile2="map_data.xml">
+<state zooming="on">
+ <id>1</id>
+ <name>Toshkent Shahar</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>2</id>
+ <name>Andijon Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>3</id>
+ <name>Buxoro Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>4</id>
+ <name>Farg‘ona Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>5</id>
+ <name>Jizzax Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>6</id>
+ <name>Namangan Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>7</id>
+ <name>Navoiy Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>8</id>
+ <name>Qashqadaryo Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>9</id>
+ <name>Samarqand Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>10</id>
+ <name>Sirdaryo Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>11</id>
+ <name>Surxondaryo Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>12</id>
+ <name>Toshkent Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>13</id>
+ <name>Xorazm Province</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+<state zooming="on">
+ <id>14</id>
+ <name>Qoraqalpog‘iston autonomous republic</name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>

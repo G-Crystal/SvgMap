@@ -1,0 +1,29 @@
+<configuration
+  name_color="ffffff"
+  name_shadow_color="000000"
+  name_font_size = "12"
+
+  background_color = "ffffff"
+  borders_color = "ffffff"
+
+  abbrevation_color = "ffffff"
+
+  popup_background_color = "ffffff"
+  popup_borders_color = "999999"  
+  popup_text_color = "000000"
+  popup_text_size = "10"
+
+  popup_pins_background_color = "8cffff"
+  popup_pins_borders_color = "999999"  
+  popup_pins_text_color = "444444"
+  popup_pins_text_size = "11"
+
+  sounds = "off"
+  animated_state = "off"
+  gradient = "on"
+  button_back_text = "BACK"
+
+  path = "map/data/"
+  path_to_images = "map/"
+>
+</configuration>

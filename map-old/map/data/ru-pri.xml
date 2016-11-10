@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map_data name="Primorsky Krai" xmlfile1="ru.xml" map="ru.swf" xmlfile2="ru_data.xml">
+<state>
+ <id>1</id>
+ <name></name>
+ <URL></URL>
+ <info></info>
+ <color>0x7798BA</color>
+ <color_>0x366CA3</color_>
+ <frame></frame>
+ <image></image>
+</state>
+</map_data>
