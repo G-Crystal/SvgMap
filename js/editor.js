@@ -1,3 +1,15 @@
+var _picker = null;
+
+$(function() {
+	$('.delPicker').click(function() {
+		// picker.hide();
+		_picker.remove();
+		$('#editor2').hide();
+		// deletePicker(firstX, firstY);
+		deletePicker(_picker.attr('id'));
+	});
+});
+
 function startWysiwyg() {
 
 	$('.new-container').empty();
@@ -124,6 +136,7 @@ function getPickers() {
 			if ($('.editor-button').attr('clicked') == "true") {
 				$('#editor').hide();
 				$('.new-picker').hide();
+				_picker = picker;
 				/*$('.delPicker').click(function() {
 					// picker.hide();
 					picker.remove();
@@ -256,6 +269,7 @@ function setPicker(picker, editor) {
 			if ($('.editor-button').attr('clicked') == "true") {
 				$('#editor').hide();
 				$('.new-picker').hide();
+				_picker = newPicker;
 				/*$('.delPicker').click(function() {
 					// newPicker.hide();
 					newPicker.remove();
@@ -285,14 +299,6 @@ function setPicker(picker, editor) {
 
 	// callback();
 }
-
-$('.delPicker').click(function() {
-	// picker.hide();
-	picker.remove();
-	$('#editor2').hide();
-	// deletePicker(firstX, firstY);
-	deletePicker(picker.attr('id'));
-});
 
 // function deletePicker(x, y) {
 function deletePicker(uid) { console.log(uid);
