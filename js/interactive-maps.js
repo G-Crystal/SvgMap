@@ -2,7 +2,7 @@ $.widget('ui.interactiveMaps',
 {
 	pathMaps: 'maps/',
 	typeClick: 'click',
-	currentMap: 'cis', //(typeof(localStorage.getItem("currentMap") == "undefined")) ? 'cis' : localStorage.getItem("currentMap"),
+	currentMap: 'cis',
 	levelMap: 1,
 	isArea: false,
 	timeoutId: null,

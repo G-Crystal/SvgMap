@@ -2,10 +2,8 @@ var _picker = null;
 
 $(function() {
 	$('.delPicker').click(function() {
-		// picker.hide();
 		_picker.remove();
 		$('#editor2').hide();
-		// deletePicker(firstX, firstY);
 		deletePicker(_picker.attr('id'));
 	});
 });
@@ -130,22 +128,12 @@ function getPickers() {
 			picker = $(this);
 			var x = picker.position().left;
 			var y = picker.position().top;
-			// var firstX = parseInt($(this).attr('left'));
-			// var firstY = parseInt($(this).attr('top'))
 			var uid = picker.attr('id');
 			if ($('.editor-button').attr('clicked') == "true") {
 				$('#editor').hide();
 				$('.new-picker').hide();
 				_picker = picker;
-				/*$('.delPicker').click(function() {
-					// picker.hide();
-					picker.remove();
-					$('#editor2').hide();
-					// deletePicker(firstX, firstY);
-					deletePicker(picker.attr('id'));
-				});*/
 				$('#editor2').show().show().css('left', x + 20).css('top', y + 10).draggable();
-				// editPicker($(this), firstX, firstY);
 				editPicker($(this), uid);
 			}
 			else {
@@ -158,8 +146,6 @@ function getPickers() {
   	});
 }
 // Saving to json
-// var lastTop = 0;
-// var lastLeft = 0;
 var lastUID = "";
 function setPicker(picker, editor) {
 	
@@ -188,7 +174,6 @@ function setPicker(picker, editor) {
 			"description": $('#description-area').val(),
 			"cisDimensions": [$('#cisMaps').width(), $('#cisMaps').height()]
 		}
-		// addStorage(item);
 	}
 	else{
 		item = {
@@ -206,7 +191,6 @@ function setPicker(picker, editor) {
 		}
 		picker.remove();
 	}
-	// if (item.coordinates[0] !== lastLeft && item.coordinates[1] !== lastTop || editor !== true) {
 	if (item.uid !== lastUID || editor !== true) {
 		// Sending data
 		var deleted = false;
@@ -221,8 +205,6 @@ function setPicker(picker, editor) {
 		  	$('.new-picker').hide();
 		  	$('.lastPicker').show();
 		});
-		// lastLeft = item.coordinates[0];
-		// lastTop = item.coordinates[1];
 		lastUID = item.uid;
 	  	// Adding new item to interface
 	  	if(item.image == "img/"){
@@ -263,22 +245,13 @@ function setPicker(picker, editor) {
 			newPicker = $(this);
 			var x = newPicker.position().left;
 			var y = newPicker.position().top;
-			// var firstX = parseInt($(this).attr('left'));
-			// var firstY = parseInt($(this).attr('top'));
 			var uid = $(this).attr('id');
 			if ($('.editor-button').attr('clicked') == "true") {
 				$('#editor').hide();
 				$('.new-picker').hide();
 				_picker = newPicker;
-				/*$('.delPicker').click(function() {
-					// newPicker.hide();
-					newPicker.remove();
-					$('#editor2').hide();
-					// deletePicker(firstX, firstY);
-					deletePicker(uid);
-				});*/
+
 				$('#editor2').show().css('left', x + 10).css('top', y + 10).draggable();
-				// editPicker(newPicker, firstX, firstY);
 				editPicker(newPicker, uid);
 			}
   		})
@@ -300,9 +273,7 @@ function setPicker(picker, editor) {
 	// callback();
 }
 
-// function deletePicker(x, y) {
 function deletePicker(uid) { console.log(uid);
-	// var json = JSON.stringify({coordinates: [x, y]});
 	var json = JSON.stringify({uid: uid});
 	var deleted = true;
 	var xhr = new XMLHttpRequest();
@@ -311,7 +282,6 @@ function deletePicker(uid) { console.log(uid);
 	xhr.send('json=' + json + '&deleted=' + deleted);
 }
 
-// function editPicker(picker, x, y) {
 function editPicker(picker, uid) {
 	$('#uid2').val(picker.attr("id"));
 	$('#name2').val(picker.find('.picker-name').text());
@@ -325,34 +295,11 @@ function editPicker(picker, uid) {
 		$('#imageName2').val(picker.find('.picker_description img').attr('src').substring(4));
 	}
 	$('.setPicker2').unbind().click(function() {
-		// deletePicker(x, y);
 		deletePicker(uid);
 		setPicker(picker, false);
 		picker.hide();
 		$('#editor2').hide();
 	})
-}
-
-function addStorage(item) {
-	var currentMap = (typeof(localStorage.getItem("currentMap")) == "undefined") ? 'cis' : localStorage.getItem("currentMap");
-	var localArray = JSON.parse(localStorage.getItem("localArray"));
-	if(localArray == null) localArray = [];
-
-	for(var i=0; i<localArray.length; i++) {
-		for(key in localArray[i]) {
-			if(key == currentMap) iconArray = localArray[i];
-		}
-	}
-	if(typeof(iconArray) == "undefined") {
-		iconArray = [];
-		iconArray.region = currentMap;
-		iconArray.data = [];
-	}
-
-	iconArray.data.push(item);
-	localArray[currentMap] = iconArray;
-
-	localStorage.setItem("mapIcons", JSON.stringify(localArray));
 }
 
 String.prototype.hashCode = function(){

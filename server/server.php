@@ -11,7 +11,6 @@
 	}
 	else {
 		foreach ($data as $key => $entry) {
-			// if ($newJson["coordinates"][0] == $entry['coordinates'][0] && $newJson["coordinates"][1] == $entry['coordinates'][1]) {
 			if ($newJson["uid"] == $entry['uid']) {
 				unset($data[$key]);
 			}
